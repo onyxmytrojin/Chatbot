@@ -49,3 +49,6 @@ The chatbot uses a simple bag-of-words approach combined with a neural network m
 
 - The Natural Language Toolkit (NLTK): [https://www.nltk.org/](https://www.nltk.org/)
 - TensorFlow: [https://www.tensorflow.org/](https://www.tensorflow.org/)
+
+## Dataset
+- https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
